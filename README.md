@@ -1,6 +1,3 @@
-# olist-ml-project
-Olist E-Commerce Machine Learning Project
-
 # Olist E-Commerce Machine Learning Project
 
 ## Objective
